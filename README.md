@@ -46,4 +46,11 @@ GPA 87.13, GPA of major 89.50
 	- We optimized all spreading and interpolation algorithms from its granularity to its details in algorithm on GPU.
 	- Our work is submitted to IPDPS'2015, the paper can be found [here](http://github.com/billy-inn)
 
+### Publications
+
+#### Efficient Particle-Mesh Spreading on GPUs (submitted)
+
+Xiangyu Guo, Zhihui Du, **Peng Xu**, Xing Liu, Edmond Chow
+
+In 29th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2015
 

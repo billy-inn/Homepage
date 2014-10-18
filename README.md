@@ -24,6 +24,12 @@ GPA 87.13, GPA of major 89.50
 - C++ Programming Fundamentals 87
 - Data Structures 86
 
+#### Coursera
+
+- Machine Learning, Standford University
+- Game Theory, Standford University (studying)
+- Probabilistic Graphical Theory, Standford University (studying)
+
 ### Research Experience
 
 #### Knowledge Engineering Group, Tsinghua University
@@ -31,7 +37,7 @@ GPA 87.13, GPA of major 89.50
 *Advisor: Jie Tang, 2014/9 - present*
 
 - Crawl Data On Website
-	- Develop a web crawler to wrawl the whole co-author network on Google Scholar. This is a independent work done by myself.
+	- Develop a web crawler to wrawl the whole co-author network on Google Scholar using *Scrapy* Framework in Python. This is a independent work done by myself.
 	- My work can be found at [my github](https://github.com/billy-inn) and [my report].
 
 #### High Performance Computing Laboratory, Tsinghua University
@@ -54,3 +60,16 @@ Xiangyu Guo, Zhihui Du, **Peng Xu**, Xing Liu, Edmond Chow
 
 In 29th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2015
 
+### Awards
+
+- 2014 Enter the quarter-final in **Microsoft Programming of Beauty Contest**, rank 134 of 988
+- 2013 Bronze Medalist in **ACM-ICPC Hunan Invitational Programming Contest**
+- 2013 Gold Medalist in **Programming Contest of Beijing University of Posts and Telecommunications**
+
+### Skills
+
+Programming Languages: C++, Python, LaTeX, CUDA, Matlab, Shell
+
+Speaking Languages: Chinese (mother tongue), fluent in speaking and written English
+
+Mathematics: Interested in *Statistics, Number Theory, Graph Theory, Cominatorics* and learn related textbooks by myself. I also often solve problems on *Euler Project*.

@@ -1,6 +1,6 @@
 ### Bio
 
-I am a 4th year undergraduate student major in Electronic Information Engineering, Beijing University of Posts and Telecommunications. My research interests include statistical machine learning, data mining and parallel computation. I worked with Prof. [Zhihu Du](http://hpclab.cs.tsinghua.edu.cn/~duzh) on parallel computation on GPUs, and more specifically, efficient particle-mesh spreading on GPUs. I also worked with Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) on data mining, machine learning, information retrieve and probabilistic graphical models.
+I am a 4th year undergraduate student major in Electronic Information Engineering, Beijing University of Posts and Telecommunications. My research interests include statistical machine learning, data mining and parallel computation. I have well command of algorithms and mathematics. I worked with Prof. [Zhihu Du](http://hpclab.cs.tsinghua.edu.cn/~duzh) on parallel computation on GPUs, and more specifically, efficient particle-mesh spreading on GPUs. I also worked with Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) on data mining, machine learning, information retrieve and probabilistic graphical models.
 
 ### Education
 
@@ -29,6 +29,8 @@ GPA 87.13, GPA of major 89.50
 - Machine Learning, Standford University
 - Game Theory, Standford University (studying)
 - Probabilistic Graphical Theory, Standford University (studying)
+
+My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http://billyinn.wordpress.com/tag/coursera/)
 
 ### Research Experience
 
@@ -73,3 +75,5 @@ Programming Languages: C++, Python, LaTeX, CUDA, Matlab, Shell
 Speaking Languages: Chinese (mother tongue), fluent in speaking and written English
 
 Mathematics: Interested in *Statistics, Number Theory, Graph Theory, Cominatorics* and learn related textbooks by myself. I also often solve problems on *Euler Project*.
+
+Algorithms: I love participating various programming contest. And I have a rate of 1732 of Codeforces. I also solve the problem on online judge such as LeetCode and write my own solution report, my solution report can be found on [my blog's category:solution](http://billyinn.wordpress.com/category/solutions/). Furthermore, I also read part of the **CLRS** and write my study notes on [my blog's category:CLRS](http://billyinn.wordpress.com/category/algorithms/clrs/)

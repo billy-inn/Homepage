@@ -26,4 +26,24 @@ GPA 87.13, GPA of major 89.50
 
 ### Research Experience
 
+#### Knowledge Engineering Group, Tsinghua University
+
+*Advisor: Jie Tang, 2014/9 - present*
+
+- Crawl Data On Website
+	- Develop a web crawler to wrawl the whole co-author network on Google Scholar. This is a independent work done by myself.
+	- My work can be found at [my github](https://github.com/billy-inn) and [my report].
+
+#### High Performance Computing Laboratory, Tsinghua University
+
+*Advisor: Zhihu Du, 2014/4 - present*
+
+- Implement Parallel Algorithm
+	- Learn the implementation and optimization of parallel algorithm on GPU hardware via CUDA.
+	- Try to implement the SVM (Support Vector Machine) and parallelize it on GPU by myself.
+	- My work can be found at [my github](http://github.com/billy-inn) and [my blog](http://billyinn.wordpress.com/).
+- Algorithm Optimization
+	- We optimized all spreading and interpolation algorithms from its granularity to its details in algorithm on GPU.
+	- Our work is submitted to IPDPS'2015, the paper can be found [here](http://github.com/billy-inn)
+
 

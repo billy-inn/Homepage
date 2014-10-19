@@ -40,7 +40,7 @@ My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http
 
 - Identify Experts Online
 	- Develop a GUI to accept the input information of the experts entered or from the database.
-	- Use the given information to identify the experts on Baidu Baike, which is a website just like Wikepeida but in Chinese.
+	- Use the given information to identify the experts on [Baidu Baike](http://baike.baidu.com/), which is a website just like [Wikipeida](http://www.wikipedia.org/) but in Chinese.
 	- Try various methods including SVM or Logistic Regression, and achieve *Precision* of 90.9%, *Recall* of 98.5% and *F1* of 94.5%.
 	- It's my independent work. And my implementation can be found on [my github repo:IdentifyExpertsInBaiduBaike](http://github.com/billy-inn/IdentifyExpertsInBaiduBaike) and the work is clarified in [my report](http://billy-inn.github.io/Homepage/Identify%20Experts%20In%20Baidu%20Baike.pdf) in Chinese.
 - Crawler For Google Scholar

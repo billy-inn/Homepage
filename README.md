@@ -1,6 +1,6 @@
 ### Bio
 
-I am a 4th year undergraduate student major in Electronic Information Engineering, Beijing University of Posts and Telecommunications. My research interests include statistical machine learning, data mining and parallel computation. I have well command of algorithms and mathematics. I worked with Prof. [Zhihu Du](http://hpclab.cs.tsinghua.edu.cn/~duzh) on parallel computation on GPUs, and more specifically, efficient particle-mesh spreading on GPUs. I also worked with Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) on data mining, machine learning, information retrieve and probabilistic graphical models.
+I am a 4th year undergraduate student major in Electronic Information Engineering, Beijing University of Posts and Telecommunications. My research interests include statistical machine learning, data mining and parallel computation. I also have a well command of algorithms and mathematics. I worked with Prof. [Zhihu Du](http://hpclab.cs.tsinghua.edu.cn/~duzh) on parallel computation on GPUs, and more specifically, efficient particle-mesh spreading on GPUs. I also worked with Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) on data mining, machine learning, information retrieve and probabilistic graphical models.
 
 ### Education
 
@@ -42,11 +42,11 @@ My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http
 	- Develop a GUI to accept the input information of the experts entered or from the database.
 	- Use the given information to identify the experts on Baidu Baike, which is a website just like Wikepeida but in Chinese.
 	- Try various methods including SVM or Logistic Regression, and achieve *Precision* of 90.9%, *Recall* of 98.5% and *F1* of 94.5%.
-	- It's a independent work. And my implementation can be found on [my github repo:IdentifyExpertsInBaiduBaike](http://github.com/billy-inn/IdentifyExpertsInBaiduBaike) and the work is clarified in [my report]() in Chinese.
+	- It's my independent work. And my implementation can be found on [my github repo:IdentifyExpertsInBaiduBaike](http://github.com/billy-inn/IdentifyExpertsInBaiduBaike) and the work is clarified in [my report](http://billy-inn.github.io/Homepage/Identify%20Experts%20In%20Baidu%20Baike.pdf) in Chinese.
 - Crawler For Google Scholar
 	- Develop a web crawler to wrawl the whole co-author network on Google Scholar using *Scrapy* Framework in Python. 
 	- In order to prevet the blockage by Google, I also write several crawler to obtain thounsands of proxy IP and port.
-	- This is a independent work done by myself. My implementation can be found on [my github](https://github.com/billy-inn) and the work is clarified in [my report]().
+	- This is my independent work. My implementation can be found on [my github](https://github.com/billy-inn) and the work is clarified in [my report]().
 
 #### High Performance Computing Laboratory, Tsinghua University
 

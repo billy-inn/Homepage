@@ -38,9 +38,15 @@ My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http
 
 *Advisor: Jie Tang, 2014/9 - present*
 
-- Crawl Data On Website
-	- Develop a web crawler to wrawl the whole co-author network on Google Scholar using *Scrapy* Framework in Python. This is a independent work done by myself.
-	- My work can be found at [my github](https://github.com/billy-inn) and [my report].
+- Identify Experts Online
+	- Develop a GUI to accept the input information of the experts entered or from the database.
+	- Use the given information to identify the experts on Baidu Baike, which is a website just like Wikepeida but in Chinese.
+	- Try various methods including SVM or Logistic Regression, and achieve *Precision* of 90.9%, *Recall* of 98.5% and *F1* of 94.5%.
+	- It's a independent work. And my implementation can be found on [my github repo:IdentifyExpertsInBaiduBaike](http://github.com/billy-inn/IdentifyExpertsInBaiduBaike) and the work is clarified in [my report]() in Chinese.
+- Crawler For Google Scholar
+	- Develop a web crawler to wrawl the whole co-author network on Google Scholar using *Scrapy* Framework in Python. 
+	- In order to prevet the blockage by Google, I also write several crawler to obtain thounsands of proxy IP and port.
+	- This is a independent work done by myself. My implementation can be found on [my github](https://github.com/billy-inn) and the work is clarified in [my report]().
 
 #### High Performance Computing Laboratory, Tsinghua University
 
@@ -49,7 +55,7 @@ My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http
 - Implement Parallel Algorithm
 	- Learn the implementation and optimization of parallel algorithm on GPU hardware via CUDA.
 	- Try to implement the SVM (Support Vector Machine) and parallelize it on GPU by myself.
-	- My work can be found at [my github](http://github.com/billy-inn) and [my blog](http://billyinn.wordpress.com/).
+	- My implementation can be found at [my github](http://github.com/billy-inn) and the work is clarified on [my blog](http://billyinn.wordpress.com/).
 - Algorithm Optimization
 	- We optimized all spreading and interpolation algorithms from its granularity to its details in algorithm on GPU.
 	- Our work is submitted to IPDPS'2015, the paper can be found [here](http://github.com/billy-inn)

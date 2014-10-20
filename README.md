@@ -46,7 +46,7 @@ My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http
 - Crawler For Google Scholar
 	- Develop a web crawler to wrawl the whole co-author network on Google Scholar using *Scrapy* Framework in Python. 
 	- In order to prevet the blockage by Google, I also write several crawler to obtain thounsands of proxy IP and port.
-	- This is my independent work. My implementation can be found on [my github](https://github.com/billy-inn) and the work is clarified in [my report]().
+	- This is my independent work. My implementation can be found on [my github repo:CrawlerForGoogleScholar](http://github.com/billy-inn/CrawlerForGoogleScholar) and the work is clarified in [my report]().
 
 #### High Performance Computing Laboratory, Tsinghua University
 
@@ -65,7 +65,7 @@ My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http
 
 #### Efficient Particle-Mesh Spreading on GPUs (submitted)
 
-Xiangyu Guo, Zhihui Du, **Peng Xu**, Xing Liu, Edmond Chow
+Xiangyu Guo, Xing Liu, **Peng Xu**, Zhihu Du, Edmond Chow
 
 In 29th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2015
 

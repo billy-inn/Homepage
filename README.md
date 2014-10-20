@@ -58,6 +58,7 @@ My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http
 	- My implementation can be found at [my github](http://github.com/billy-inn) and the work is clarified on [my blog](http://billyinn.wordpress.com/).
 - Algorithm Optimization
 	- We optimized all spreading and interpolation algorithms from its granularity to its details in algorithm on GPU.
+	- I implement several spreading algorithms. Also do some test work and plot corresponding figures in the paper.
 	- Our work is submitted to IPDPS'2015, the paper can be found [here](http://github.com/billy-inn)
 
 ### Publications

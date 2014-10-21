@@ -55,7 +55,7 @@ My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http
 - Implement Parallel Algorithm
 	- Learn the implementation and optimization of parallel algorithm on GPU hardware via CUDA.
 	- Try to implement the SVM (Support Vector Machine) and parallelize it on GPU by myself.
-	- My implementation can be found at [my github](http://github.com/billy-inn) and the work is clarified on [my blog](http://billyinn.wordpress.com/).
+/*	- My implementation can be found at [my github](http://github.com/billy-inn) and the work is clarified on [my blog](http://billyinn.wordpress.com/).*/
 - Algorithm Optimization
 	- We optimized all spreading and interpolation algorithms from its granularity to its details in algorithm on GPU.
 	- I implement several spreading algorithms. Also do some test work and plot corresponding figures in the paper.

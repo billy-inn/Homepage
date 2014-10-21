@@ -46,7 +46,7 @@ My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http
 - Crawler For Google Scholar
 	- Develop a web crawler to wrawl the whole co-author network on Google Scholar using *Scrapy* Framework in Python. 
 	- In order to prevet the blockage by Google, I also write several crawler to obtain thounsands of proxy IP and port.
-	- This is my independent work. My implementation can be found on [my github repo:CrawlerForGoogleScholar](http://github.com/billy-inn/CrawlerForGoogleScholar) and the work is clarified in [my report]().
+	- This is my independent work. My implementation can be found on [my github repo:CrawlerForGoogleScholar](http://github.com/billy-inn/CrawlerForGoogleScholar) and the work is clarified in [my report](http://billy-inn.github.io/Homepage/Crawler%20For%20Google%20Scholar.pdf).
 
 #### High Performance Computing Laboratory, Tsinghua University
 
@@ -55,7 +55,6 @@ My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http
 - Implement Parallel Algorithm
 	- Learn the implementation and optimization of parallel algorithm on GPU hardware via CUDA.
 	- Try to implement the SVM (Support Vector Machine) and parallelize it on GPU by myself.
-/*	- My implementation can be found at [my github](http://github.com/billy-inn) and the work is clarified on [my blog](http://billyinn.wordpress.com/).*/
 - Algorithm Optimization
 	- We optimized all spreading and interpolation algorithms from its granularity to its details in algorithm on GPU.
 	- I implement several spreading algorithms. Also do some test work and plot corresponding figures in the paper.

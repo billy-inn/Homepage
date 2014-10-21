@@ -8,7 +8,7 @@ I am a 4th year undergraduate student major in Electronic Information Engineerin
 
 BA, 2011-2015(expected)
 
-GPA 87.13, GPA of major 89.50
+GPA 87.06, GPA of major 89.62
 
 #### Major Courses
 

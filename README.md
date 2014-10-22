@@ -44,7 +44,8 @@ My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http
 	- Try various methods including SVM or Logistic Regression, and achieve *Precision* of 90.9%, *Recall* of 98.5% and *F1* of 94.5%.
 	- It's my independent work. And my implementation can be found on [my github repo:IdentifyExpertsInBaiduBaike](http://github.com/billy-inn/IdentifyExpertsInBaiduBaike) and the work is clarified in [my report](http://billy-inn.github.io/Homepage/Identify%20Experts%20In%20Baidu%20Baike.pdf) in Chinese.
 - Crawler For Google Scholar
-	- Develop a web crawler to wrawl the whole co-author network on Google Scholar using *Scrapy* Framework in Python. 
+	- It's a sub-project of [Aminer](http://arnetminer.org/) which offers comprehensive search and mining services for academic community.
+	- Develop a web crawler to crawl the whole co-author network with all their papers on Google Scholar using *Scrapy* Framework in Python. 
 	- In order to prevet the blockage by Google, I also write several crawler to obtain thounsands of proxy IP and port.
 	- This is my independent work. My implementation can be found on [my github repo:CrawlerForGoogleScholar](http://github.com/billy-inn/CrawlerForGoogleScholar) and the work is clarified in [my report](http://billy-inn.github.io/Homepage/Crawler%20For%20Google%20Scholar.pdf).
 
@@ -83,3 +84,7 @@ Speaking Languages: Chinese (mother tongue), fluent in speaking and written Engl
 Mathematics: Interested in *Statistics, Number Theory, Graph Theory, Cominatorics* and learn related textbooks by myself. I also often solve problems on *Euler Project*.
 
 Algorithms: I love participating various programming contest. And I have a rate of 1732 of Codeforces. I also solve the problem on online judge such as LeetCode and write my own solution report, my solution report can be found on [my blog's category:solution](http://billyinn.wordpress.com/category/solutions/). Furthermore, I also read part of the **CLRS** and write my study notes on [my blog's category:CLRS](http://billyinn.wordpress.com/category/algorithms/clrs/)
+
+### CV
+
+You can download my CV [here](http://billy-inn.github.io/Homepage/CV-PengXu.pdf)

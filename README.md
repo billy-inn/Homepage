@@ -83,7 +83,7 @@ Speaking Languages: Chinese (mother tongue), fluent in speaking and written Engl
 
 Mathematics: Interested in *Statistics, Number Theory, Graph Theory, Cominatorics* and learn related textbooks by myself. I also often solve problems on *Euler Project*.
 
-Algorithms: I love participating various programming contest. And I have a rate of 1732 of Codeforces. I also solve the problem on online judge such as LeetCode and write my own solution report, my solution report can be found on [my blog's category:solution](http://billyinn.wordpress.com/category/solutions/). Furthermore, I also read part of the **CLRS** and write my study notes on [my blog's category:CLRS](http://billyinn.wordpress.com/category/algorithms/clrs/)
+Algorithms: I love participating various programming contest. And I have a rate of 1732 of Codeforces. I also solve the problem on online judge such as LeetCode and write my own solution report, my solution report can be found on [my blog's category:solution](http://billyinn.wordpress.com/category/solutions/). Furthermore, I also read part of the **CLRS** and write my study notes on [my blog's category:CLRS](http://billyinn.wordpress.com/category/algorithms/clrs/). I also write my own algorithm template in LaTeX, which can be found [here](http://billy-inn.github.io/Homepage/my_template_2014:8:7.pdf).
 
 ### CV
 

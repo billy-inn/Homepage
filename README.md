@@ -1,6 +1,6 @@
 ### Bio
 
-I am a 4th year undergraduate student major in Electronic Information Engineering, Beijing University of Posts and Telecommunications. My research interests include statistical machine learning, data mining and parallel computation. I also have a well command of algorithms and mathematics. I worked with Prof. [Zhihu Du](http://hpclab.cs.tsinghua.edu.cn/~duzh) on parallel computation on GPUs, and more specifically, efficient particle-mesh spreading on GPUs. I also worked with Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) on data mining, machine learning, information retrieve and probabilistic graphical models.
+I am a 4th year undergraduate student major in Electronic Information Engineering, Beijing University of Posts and Telecommunications. My research interests include statistical machine learning, data mining and parallel computation. I also have a well command of algorithms and mathematics. I am working with Prof. [Zhihu Du](http://hpclab.cs.tsinghua.edu.cn/~duzh) on parallel and distributed computation, and more specifically, efficient particle-mesh spreading on GPUs and handle large amount of images via MPI, Spark and Hadoop. I am also working with Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) on data mining, machine learning, information retrieve, and more specifically, name disambiguation in large scale database.
 
 ### Education
 

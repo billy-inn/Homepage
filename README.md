@@ -43,7 +43,7 @@ GPA 87.06, GPA of major 89.62
 	- ArnetMiner is a website that offers comprehensive search and mining services for academic community. I am working on the second version of it.
 	- My work mainly involves with the data, including cache, mongodb, redis and the corresponding computation.
 	- In addition, I am working on improve the performance of name disambiguation of the system and how to handle the new data properly.
-	- The ArnetMiner has been released already, you can visit it [here](aminer.org)
+	- The ArnetMiner has been released already, you can visit it [here](http://aminer.org)
 
 #### High Performance Computing Laboratory, Tsinghua University
 

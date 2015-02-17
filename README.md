@@ -43,6 +43,7 @@ GPA 87.06, GPA of major 89.62
 	- ArnetMiner is a website that offers comprehensive search and mining services for academic community. I am working on the second version of it.
 	- My work mainly involves with the data, including cache, mongodb, redis and the corresponding computation.
 	- In addition, I am working on improve the performance of name disambiguation of the system and how to handle the new data properly.
+	- The ArnetMiner has been released already, you can visit it [here](aminer.org)
 
 #### High Performance Computing Laboratory, Tsinghua University
 
@@ -75,7 +76,7 @@ In 29th IEEE International Parallel and Distributed Processing Symposium (IPDPS)
 
 ### Skills and Qualifications
 
-Programming Languages: C/C++, Python, CUDA, Matlab, Shell, Scala
+Programming Languages: C/C++, Python, CUDA, Matlab, Shell, R, Scala
 
 Softwares and Tools: LaTeX, Git, LIBSVM, MongoDB, Scrapy, Redis, Spark 
 
@@ -85,7 +86,7 @@ Mathematics: Interested in *Statistics, Number Theory, Graph Theory, Cominatoric
 
 Algorithms: I love participating various programming contest. And I have a rate of 1732 of Codeforces. I also solve the problem on online judge such as LeetCode and write my own solution report, my solution report can be found on [my blog's category:solution](http://billyinn.wordpress.com/category/solutions/). Furthermore, I also read part of the **CLRS** and write my study notes on [my blog's category:CLRS](http://billyinn.wordpress.com/category/algorithms/clrs/). I also write my own algorithm template in LaTeX, which can be found [here](http://billy-inn.github.io/Homepage/my_template_2014:8:7.pdf).
 
-Coursera: Machine Learning, Game Theory, Probabilistic Graphical Models. My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http://billyinn.wordpress.com/tag/coursera/)
+Coursera: Machine Learning, Game Theory, Probabilistic Graphical Models, Mining Massive Datasets, Statistical Learning. My notes and summaries of Coursera can be found on [my blog's tag:Coursera](http://billyinn.wordpress.com/tag/coursera/)
 
 ### CV
 
